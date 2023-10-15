@@ -1,4 +1,4 @@
-current version: npm - 9.8.1, node - 20.6.0
+#current version: npm - 9.8.1, node - 20.6.0
 
 # Getting Started with Create React App
 
